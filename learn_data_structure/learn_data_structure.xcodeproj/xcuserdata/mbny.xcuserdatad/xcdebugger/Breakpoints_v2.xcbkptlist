@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "EAC900BD-CA77-4357-AE80-32AA91B4F16C"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "678BE5A4-6B6B-4CC2-80AF-7ED6560DC240"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "DS&#x961f;&#x5217;--&#x7ec4;&#x961f;&#x5217;/main.cpp"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "34"
+            endingLineNumber = "34"
+            landmarkName = "main()"
+            landmarkType = "9">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "0894272E-E658-49D2-A22B-A46462C2361B"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "DS&#x961f;&#x5217;--&#x7ec4;&#x961f;&#x5217;/main.cpp"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "62"
+            endingLineNumber = "62"
+            landmarkName = "main()"
+            landmarkType = "9">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "E963533B-8653-42F3-85C6-C3F808191CA1"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "DS&#x961f;&#x5217;--&#x7ec4;&#x961f;&#x5217;/main.cpp"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "56"
+            endingLineNumber = "56"
+            landmarkName = "main()"
+            landmarkType = "9">
+            <Locations>
+               <Location
+                  uuid = "E963533B-8653-42F3-85C6-C3F808191CA1 - 4d188935d09deb9"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "main"
+                  moduleName = "DS&#x961f;&#x5217;--&#x7ec4;&#x961f;&#x5217;"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mbny/Documents/GitHub/learn_data_structure/learn_data_structure/DS%E9%98%9F%E5%88%97--%E7%BB%84%E9%98%9F%E5%88%97/main.cpp"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "56"
+                  endingLineNumber = "56"
+                  offsetFromSymbolStart = "728">
+               </Location>
+               <Location
+                  uuid = "E963533B-8653-42F3-85C6-C3F808191CA1 - 4d188935d09de9a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "main"
+                  moduleName = "DS&#x961f;&#x5217;--&#x7ec4;&#x961f;&#x5217;"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mbny/Documents/GitHub/learn_data_structure/learn_data_structure/DS%E9%98%9F%E5%88%97--%E7%BB%84%E9%98%9F%E5%88%97/main.cpp"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "55"
+                  endingLineNumber = "55"
+                  offsetFromSymbolStart = "692">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B41C8ED4-C40A-4942-B072-6C98CFB6B993"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "DS&#x961f;&#x5217;--&#x7ec4;&#x961f;&#x5217;/main.cpp"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "42"
+            endingLineNumber = "42"
+            landmarkName = "main()"
+            landmarkType = "9">
+            <Locations>
+               <Location
+                  uuid = "B41C8ED4-C40A-4942-B072-6C98CFB6B993 - 4d188935d09d0cf"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "main"
+                  moduleName = "DS&#x961f;&#x5217;--&#x7ec4;&#x961f;&#x5217;"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mbny/Documents/GitHub/learn_data_structure/learn_data_structure/DS%E9%98%9F%E5%88%97--%E7%BB%84%E9%98%9F%E5%88%97/main.cpp"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "42"
+                  endingLineNumber = "42"
+                  offsetFromSymbolStart = "476">
+               </Location>
+               <Location
+                  uuid = "B41C8ED4-C40A-4942-B072-6C98CFB6B993 - 4d188935d09d0a8"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "main"
+                  moduleName = "DS&#x961f;&#x5217;--&#x7ec4;&#x961f;&#x5217;"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mbny/Documents/GitHub/learn_data_structure/learn_data_structure/DS%E9%98%9F%E5%88%97--%E7%BB%84%E9%98%9F%E5%88%97/main.cpp"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "41"
+                  endingLineNumber = "41"
+                  offsetFromSymbolStart = "456">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "085CA9A4-29AC-4461-88CD-AD7E895F03FB"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "DS&#x961f;&#x5217;--&#x7ec4;&#x961f;&#x5217;/main.cpp"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "63"
+            endingLineNumber = "63"
+            landmarkName = "main()"
+            landmarkType = "9">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
