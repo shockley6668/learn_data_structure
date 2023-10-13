@@ -8,12 +8,72 @@
 
 /* Begin PBXBuildFile section */
 		14665F892AD68F88003BF0A3 /* main.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 14665F882AD68F88003BF0A3 /* main.cpp */; };
+		14665F942AD6BA37003BF0A3 /* main.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 14665F932AD6BA37003BF0A3 /* main.cpp */; };
+		14665F9F2AD6CC0E003BF0A3 /* main.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 14665F9E2AD6CC0E003BF0A3 /* main.cpp */; };
+		14AC185E2AD77B5F0084831A /* main.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 14AC185D2AD77B5F0084831A /* main.cpp */; };
+		14AC18692AD786190084831A /* main.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 14AC18682AD786190084831A /* main.cpp */; };
+		14AC18742AD7AD020084831A /* main.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 14AC18732AD7AD020084831A /* main.cpp */; };
+		14AC187F2AD7E9B70084831A /* main.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 14AC187E2AD7E9B70084831A /* main.cpp */; };
 		14C1DC982AD6769800229A29 /* main.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 14C1DC972AD6769800229A29 /* main.cpp */; };
 		14C1DCA52AD677D500229A29 /* main.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 14C1DCA42AD677D500229A29 /* main.cpp */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
 		14665F842AD68F88003BF0A3 /* CopyFiles */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = /usr/share/man/man1/;
+			dstSubfolderSpec = 0;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 1;
+		};
+		14665F8F2AD6BA37003BF0A3 /* CopyFiles */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = /usr/share/man/man1/;
+			dstSubfolderSpec = 0;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 1;
+		};
+		14665F9A2AD6CC0E003BF0A3 /* CopyFiles */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = /usr/share/man/man1/;
+			dstSubfolderSpec = 0;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 1;
+		};
+		14AC18592AD77B5F0084831A /* CopyFiles */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = /usr/share/man/man1/;
+			dstSubfolderSpec = 0;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 1;
+		};
+		14AC18642AD786190084831A /* CopyFiles */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = /usr/share/man/man1/;
+			dstSubfolderSpec = 0;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 1;
+		};
+		14AC186F2AD7AD020084831A /* CopyFiles */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = /usr/share/man/man1/;
+			dstSubfolderSpec = 0;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 1;
+		};
+		14AC187A2AD7E9B70084831A /* CopyFiles */ = {
 			isa = PBXCopyFilesBuildPhase;
 			buildActionMask = 2147483647;
 			dstPath = /usr/share/man/man1/;
@@ -45,6 +105,18 @@
 /* Begin PBXFileReference section */
 		14665F862AD68F88003BF0A3 /* DS栈—排队游戏 */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "DS栈—排队游戏"; sourceTree = BUILT_PRODUCTS_DIR; };
 		14665F882AD68F88003BF0A3 /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
+		14665F912AD6BA37003BF0A3 /* DS队列--银行单队列多窗口模拟 */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "DS队列--银行单队列多窗口模拟"; sourceTree = BUILT_PRODUCTS_DIR; };
+		14665F932AD6BA37003BF0A3 /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
+		14665F9C2AD6CC0E003BF0A3 /* DS串应用--KMP算法 */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "DS串应用--KMP算法"; sourceTree = BUILT_PRODUCTS_DIR; };
+		14665F9E2AD6CC0E003BF0A3 /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
+		14AC185B2AD77B5F0084831A /* 串应用- 计算一个串的最长的真前后缀 */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "串应用- 计算一个串的最长的真前后缀"; sourceTree = BUILT_PRODUCTS_DIR; };
+		14AC185D2AD77B5F0084831A /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
+		14AC18662AD786190084831A /* DS串应用--串替换 */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "DS串应用--串替换"; sourceTree = BUILT_PRODUCTS_DIR; };
+		14AC18682AD786190084831A /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
+		14AC18712AD7AD020084831A /* DS串应用—最长重复子串 */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "DS串应用—最长重复子串"; sourceTree = BUILT_PRODUCTS_DIR; };
+		14AC18732AD7AD020084831A /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
+		14AC187C2AD7E9B70084831A /* 子串循环问题 (Ver. I) */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "子串循环问题 (Ver. I)"; sourceTree = BUILT_PRODUCTS_DIR; };
+		14AC187E2AD7E9B70084831A /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
 		14C1DC942AD6769800229A29 /* learn_data_structure */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = learn_data_structure; sourceTree = BUILT_PRODUCTS_DIR; };
 		14C1DC972AD6769800229A29 /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
 		14C1DCA22AD677D500229A29 /* DS队列--组队列 */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "DS队列--组队列"; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -53,6 +125,48 @@
 
 /* Begin PBXFrameworksBuildPhase section */
 		14665F832AD68F88003BF0A3 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		14665F8E2AD6BA37003BF0A3 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		14665F992AD6CC0E003BF0A3 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		14AC18582AD77B5F0084831A /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		14AC18632AD786190084831A /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		14AC186E2AD7AD020084831A /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		14AC18792AD7E9B70084831A /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -84,12 +198,66 @@
 			path = "DS栈—排队游戏";
 			sourceTree = "<group>";
 		};
+		14665F922AD6BA37003BF0A3 /* DS队列--银行单队列多窗口模拟 */ = {
+			isa = PBXGroup;
+			children = (
+				14665F932AD6BA37003BF0A3 /* main.cpp */,
+			);
+			path = "DS队列--银行单队列多窗口模拟";
+			sourceTree = "<group>";
+		};
+		14665F9D2AD6CC0E003BF0A3 /* DS串应用--KMP算法 */ = {
+			isa = PBXGroup;
+			children = (
+				14665F9E2AD6CC0E003BF0A3 /* main.cpp */,
+			);
+			path = "DS串应用--KMP算法";
+			sourceTree = "<group>";
+		};
+		14AC185C2AD77B5F0084831A /* 串应用- 计算一个串的最长的真前后缀 */ = {
+			isa = PBXGroup;
+			children = (
+				14AC185D2AD77B5F0084831A /* main.cpp */,
+			);
+			path = "串应用- 计算一个串的最长的真前后缀";
+			sourceTree = "<group>";
+		};
+		14AC18672AD786190084831A /* DS串应用--串替换 */ = {
+			isa = PBXGroup;
+			children = (
+				14AC18682AD786190084831A /* main.cpp */,
+			);
+			path = "DS串应用--串替换";
+			sourceTree = "<group>";
+		};
+		14AC18722AD7AD020084831A /* DS串应用—最长重复子串 */ = {
+			isa = PBXGroup;
+			children = (
+				14AC18732AD7AD020084831A /* main.cpp */,
+			);
+			path = "DS串应用—最长重复子串";
+			sourceTree = "<group>";
+		};
+		14AC187D2AD7E9B70084831A /* 子串循环问题 (Ver. I) */ = {
+			isa = PBXGroup;
+			children = (
+				14AC187E2AD7E9B70084831A /* main.cpp */,
+			);
+			path = "子串循环问题 (Ver. I)";
+			sourceTree = "<group>";
+		};
 		14C1DC8B2AD6769800229A29 = {
 			isa = PBXGroup;
 			children = (
 				14C1DC962AD6769800229A29 /* learn_data_structure */,
 				14C1DCA32AD677D500229A29 /* DS队列--组队列 */,
 				14665F872AD68F88003BF0A3 /* DS栈—排队游戏 */,
+				14665F922AD6BA37003BF0A3 /* DS队列--银行单队列多窗口模拟 */,
+				14665F9D2AD6CC0E003BF0A3 /* DS串应用--KMP算法 */,
+				14AC185C2AD77B5F0084831A /* 串应用- 计算一个串的最长的真前后缀 */,
+				14AC18672AD786190084831A /* DS串应用--串替换 */,
+				14AC18722AD7AD020084831A /* DS串应用—最长重复子串 */,
+				14AC187D2AD7E9B70084831A /* 子串循环问题 (Ver. I) */,
 				14C1DC952AD6769800229A29 /* Products */,
 			);
 			sourceTree = "<group>";
@@ -100,6 +268,12 @@
 				14C1DC942AD6769800229A29 /* learn_data_structure */,
 				14C1DCA22AD677D500229A29 /* DS队列--组队列 */,
 				14665F862AD68F88003BF0A3 /* DS栈—排队游戏 */,
+				14665F912AD6BA37003BF0A3 /* DS队列--银行单队列多窗口模拟 */,
+				14665F9C2AD6CC0E003BF0A3 /* DS串应用--KMP算法 */,
+				14AC185B2AD77B5F0084831A /* 串应用- 计算一个串的最长的真前后缀 */,
+				14AC18662AD786190084831A /* DS串应用--串替换 */,
+				14AC18712AD7AD020084831A /* DS串应用—最长重复子串 */,
+				14AC187C2AD7E9B70084831A /* 子串循环问题 (Ver. I) */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -138,6 +312,108 @@
 			name = "DS栈—排队游戏";
 			productName = "DS栈—排队游戏";
 			productReference = 14665F862AD68F88003BF0A3 /* DS栈—排队游戏 */;
+			productType = "com.apple.product-type.tool";
+		};
+		14665F902AD6BA37003BF0A3 /* DS队列--银行单队列多窗口模拟 */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 14665F952AD6BA37003BF0A3 /* Build configuration list for PBXNativeTarget "DS队列--银行单队列多窗口模拟" */;
+			buildPhases = (
+				14665F8D2AD6BA37003BF0A3 /* Sources */,
+				14665F8E2AD6BA37003BF0A3 /* Frameworks */,
+				14665F8F2AD6BA37003BF0A3 /* CopyFiles */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "DS队列--银行单队列多窗口模拟";
+			productName = "DS队列--银行单队列多窗口模拟";
+			productReference = 14665F912AD6BA37003BF0A3 /* DS队列--银行单队列多窗口模拟 */;
+			productType = "com.apple.product-type.tool";
+		};
+		14665F9B2AD6CC0E003BF0A3 /* DS串应用--KMP算法 */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 14665FA02AD6CC0E003BF0A3 /* Build configuration list for PBXNativeTarget "DS串应用--KMP算法" */;
+			buildPhases = (
+				14665F982AD6CC0E003BF0A3 /* Sources */,
+				14665F992AD6CC0E003BF0A3 /* Frameworks */,
+				14665F9A2AD6CC0E003BF0A3 /* CopyFiles */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "DS串应用--KMP算法";
+			productName = "DS串应用--KMP算法";
+			productReference = 14665F9C2AD6CC0E003BF0A3 /* DS串应用--KMP算法 */;
+			productType = "com.apple.product-type.tool";
+		};
+		14AC185A2AD77B5F0084831A /* 串应用- 计算一个串的最长的真前后缀 */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 14AC18612AD77B5F0084831A /* Build configuration list for PBXNativeTarget "串应用- 计算一个串的最长的真前后缀" */;
+			buildPhases = (
+				14AC18572AD77B5F0084831A /* Sources */,
+				14AC18582AD77B5F0084831A /* Frameworks */,
+				14AC18592AD77B5F0084831A /* CopyFiles */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "串应用- 计算一个串的最长的真前后缀";
+			productName = "串应用- 计算一个串的最长的真前后缀";
+			productReference = 14AC185B2AD77B5F0084831A /* 串应用- 计算一个串的最长的真前后缀 */;
+			productType = "com.apple.product-type.tool";
+		};
+		14AC18652AD786190084831A /* DS串应用--串替换 */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 14AC186A2AD786190084831A /* Build configuration list for PBXNativeTarget "DS串应用--串替换" */;
+			buildPhases = (
+				14AC18622AD786190084831A /* Sources */,
+				14AC18632AD786190084831A /* Frameworks */,
+				14AC18642AD786190084831A /* CopyFiles */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "DS串应用--串替换";
+			productName = "DS串应用--串替换";
+			productReference = 14AC18662AD786190084831A /* DS串应用--串替换 */;
+			productType = "com.apple.product-type.tool";
+		};
+		14AC18702AD7AD020084831A /* DS串应用—最长重复子串 */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 14AC18752AD7AD020084831A /* Build configuration list for PBXNativeTarget "DS串应用—最长重复子串" */;
+			buildPhases = (
+				14AC186D2AD7AD020084831A /* Sources */,
+				14AC186E2AD7AD020084831A /* Frameworks */,
+				14AC186F2AD7AD020084831A /* CopyFiles */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "DS串应用—最长重复子串";
+			productName = "DS串应用—最长重复子串";
+			productReference = 14AC18712AD7AD020084831A /* DS串应用—最长重复子串 */;
+			productType = "com.apple.product-type.tool";
+		};
+		14AC187B2AD7E9B70084831A /* 子串循环问题 (Ver. I) */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 14AC18802AD7E9B70084831A /* Build configuration list for PBXNativeTarget "子串循环问题 (Ver. I)" */;
+			buildPhases = (
+				14AC18782AD7E9B70084831A /* Sources */,
+				14AC18792AD7E9B70084831A /* Frameworks */,
+				14AC187A2AD7E9B70084831A /* CopyFiles */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "子串循环问题 (Ver. I)";
+			productName = "子串循环问题 (Ver. I)";
+			productReference = 14AC187C2AD7E9B70084831A /* 子串循环问题 (Ver. I) */;
 			productType = "com.apple.product-type.tool";
 		};
 		14C1DC932AD6769800229A29 /* learn_data_structure */ = {
@@ -186,6 +462,24 @@
 					14665F852AD68F88003BF0A3 = {
 						CreatedOnToolsVersion = 15.0;
 					};
+					14665F902AD6BA37003BF0A3 = {
+						CreatedOnToolsVersion = 15.0;
+					};
+					14665F9B2AD6CC0E003BF0A3 = {
+						CreatedOnToolsVersion = 15.0;
+					};
+					14AC185A2AD77B5F0084831A = {
+						CreatedOnToolsVersion = 15.0;
+					};
+					14AC18652AD786190084831A = {
+						CreatedOnToolsVersion = 15.0;
+					};
+					14AC18702AD7AD020084831A = {
+						CreatedOnToolsVersion = 15.0;
+					};
+					14AC187B2AD7E9B70084831A = {
+						CreatedOnToolsVersion = 15.0;
+					};
 					14C1DC932AD6769800229A29 = {
 						CreatedOnToolsVersion = 15.0;
 					};
@@ -210,6 +504,12 @@
 				14C1DC932AD6769800229A29 /* learn_data_structure */,
 				14C1DCA12AD677D500229A29 /* DS队列--组队列 */,
 				14665F852AD68F88003BF0A3 /* DS栈—排队游戏 */,
+				14665F902AD6BA37003BF0A3 /* DS队列--银行单队列多窗口模拟 */,
+				14665F9B2AD6CC0E003BF0A3 /* DS串应用--KMP算法 */,
+				14AC185A2AD77B5F0084831A /* 串应用- 计算一个串的最长的真前后缀 */,
+				14AC18652AD786190084831A /* DS串应用--串替换 */,
+				14AC18702AD7AD020084831A /* DS串应用—最长重复子串 */,
+				14AC187B2AD7E9B70084831A /* 子串循环问题 (Ver. I) */,
 			);
 		};
 /* End PBXProject section */
@@ -220,6 +520,54 @@
 			buildActionMask = 2147483647;
 			files = (
 				14665F892AD68F88003BF0A3 /* main.cpp in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		14665F8D2AD6BA37003BF0A3 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				14665F942AD6BA37003BF0A3 /* main.cpp in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		14665F982AD6CC0E003BF0A3 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				14665F9F2AD6CC0E003BF0A3 /* main.cpp in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		14AC18572AD77B5F0084831A /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				14AC185E2AD77B5F0084831A /* main.cpp in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		14AC18622AD786190084831A /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				14AC18692AD786190084831A /* main.cpp in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		14AC186D2AD7AD020084831A /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				14AC18742AD7AD020084831A /* main.cpp in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		14AC18782AD7E9B70084831A /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				14AC187F2AD7E9B70084831A /* main.cpp in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -251,6 +599,102 @@
 			name = Debug;
 		};
 		14665F8B2AD68F88003BF0A3 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Release;
+		};
+		14665F962AD6BA37003BF0A3 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Debug;
+		};
+		14665F972AD6BA37003BF0A3 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Release;
+		};
+		14665FA12AD6CC0E003BF0A3 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Debug;
+		};
+		14665FA22AD6CC0E003BF0A3 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Release;
+		};
+		14AC185F2AD77B5F0084831A /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Debug;
+		};
+		14AC18602AD77B5F0084831A /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Release;
+		};
+		14AC186B2AD786190084831A /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Debug;
+		};
+		14AC186C2AD786190084831A /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Release;
+		};
+		14AC18762AD7AD020084831A /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Debug;
+		};
+		14AC18772AD7AD020084831A /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Release;
+		};
+		14AC18812AD7E9B70084831A /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Debug;
+		};
+		14AC18822AD7E9B70084831A /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CODE_SIGN_STYLE = Automatic;
@@ -413,6 +857,60 @@
 			buildConfigurations = (
 				14665F8A2AD68F88003BF0A3 /* Debug */,
 				14665F8B2AD68F88003BF0A3 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		14665F952AD6BA37003BF0A3 /* Build configuration list for PBXNativeTarget "DS队列--银行单队列多窗口模拟" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				14665F962AD6BA37003BF0A3 /* Debug */,
+				14665F972AD6BA37003BF0A3 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		14665FA02AD6CC0E003BF0A3 /* Build configuration list for PBXNativeTarget "DS串应用--KMP算法" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				14665FA12AD6CC0E003BF0A3 /* Debug */,
+				14665FA22AD6CC0E003BF0A3 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		14AC18612AD77B5F0084831A /* Build configuration list for PBXNativeTarget "串应用- 计算一个串的最长的真前后缀" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				14AC185F2AD77B5F0084831A /* Debug */,
+				14AC18602AD77B5F0084831A /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		14AC186A2AD786190084831A /* Build configuration list for PBXNativeTarget "DS串应用--串替换" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				14AC186B2AD786190084831A /* Debug */,
+				14AC186C2AD786190084831A /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		14AC18752AD7AD020084831A /* Build configuration list for PBXNativeTarget "DS串应用—最长重复子串" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				14AC18762AD7AD020084831A /* Debug */,
+				14AC18772AD7AD020084831A /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		14AC18802AD7E9B70084831A /* Build configuration list for PBXNativeTarget "子串循环问题 (Ver. I)" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				14AC18812AD7E9B70084831A /* Debug */,
+				14AC18822AD7E9B70084831A /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
