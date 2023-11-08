@@ -8,7 +8,7 @@ struct TreeNode {
     TreeNode *left, *right;
     TreeNode(int x) : val(x), left(NULL), right(NULL) {}
 };
-//使用队列存储。首先，将根节点放入队列。然后，每次从队列中取出一个节点，为其分配两个子节点（数组中的下两个元素），然后将这两个子节点加入到队列。如此重复，直到所有的节点都被处理。
+//使用队列存储。首先，将根节点放入队列。然后，每次从队列中取出一个节点，为其分配两个子节点（数组中的下两个元素），然后将这两个子节点加入到队列。如此重复，直到所有的节点都被处理。 
 TreeNode* buildTree(const vector<int>& arr) {
     if (arr.empty() || arr[0] == -1) return nullptr;
 
