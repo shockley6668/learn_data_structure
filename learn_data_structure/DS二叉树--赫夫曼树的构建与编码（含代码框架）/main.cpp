@@ -191,6 +191,12 @@ void HuffMan::MakeTree(int n, int wt[])
 
 void HuffMan::SelectMin(int pos, int *s1, int *s2)
 {
+    // 比较过程如下：
+    // 如果第 i 个结点的权值小于 w1，且第 i 个结点是未选择的结点，提示：如果第 i 结点未选择，它父亲为 0
+    // 把第 w1 和 s1 保存到 w2 和 s2，即原来的第一最小值变成第二最小值
+    // 把第 i 结点的权值和下标保存到 w1 和 s1，作为第一最小值
+    // 否则，如果第 i 结点的权值小于 w2，且第 i 结点是未选择的结点
+    // 把第 i 结点的权值和下标保存到 w2 和 s2，作为第二最小值
     int w1, w2, i;
     w1 = w2 = MaxW;
     *s1 = *s2 = 0;
@@ -219,6 +225,10 @@ void HuffMan::MakeTree()
     int i, s1, s2;
     for (i = lnum + 1; i <= len; i++)
     {
+        // 将找出的两棵权值最小的子树合并为一棵子树，过程包括
+        //        // 结点 s1 和结点 s2 的父亲设为 i
+        //        // 结点 i 的左右孩子分别设为 s1 和 s2
+        //        // 结点 i 的权值等于 s1 和 s2 的权值和
         SelectMin(i - 1, &s1, &s2);
         huffTree[i].leftchild = s1;
         huffTree[i].rightchild = s2;
