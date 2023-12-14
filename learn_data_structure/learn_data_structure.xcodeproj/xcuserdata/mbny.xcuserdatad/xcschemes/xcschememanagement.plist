@@ -7,7 +7,12 @@
 		<key>B : DS二叉树--层次遍历.xcscheme_^#shared#^_</key>
 		<dict>
 			<key>orderHint</key>
-			<integer>22</integer>
+			<integer>17</integer>
+		</dict>
+		<key>D : B DS图_冗余连接.xcscheme_^#shared#^_</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>11</integer>
 		</dict>
 		<key>DS串应用--KMP算法.xcscheme_^#shared#^_</key>
 		<dict>
@@ -24,85 +29,145 @@
 			<key>orderHint</key>
 			<integer>1</integer>
 		</dict>
-		<key>DS二叉树--叶子数量.xcscheme_^#shared#^_</key>
-		<dict>
-			<key>orderHint</key>
-			<integer>3</integer>
-		</dict>
-		<key>DS二叉树--后序遍历非递归算法.xcscheme_^#shared#^_</key>
-		<dict>
-			<key>orderHint</key>
-			<integer>16</integer>
-		</dict>
-		<key>DS二叉树--左叶子数量.xcscheme_^#shared#^_</key>
-		<dict>
-			<key>orderHint</key>
-			<integer>5</integer>
-		</dict>
-		<key>DS二叉树--赫夫曼树的构建与编码（含代码框架）.xcscheme_^#shared#^_</key>
-		<dict>
-			<key>orderHint</key>
-			<integer>8</integer>
-		</dict>
-		<key>DS二叉树--赫夫曼树解码（含代码框架）.xcscheme_^#shared#^_</key>
-		<dict>
-			<key>orderHint</key>
-			<integer>4</integer>
-		</dict>
-		<key>DS二叉树_伪层序遍历构建二叉树.xcscheme_^#shared#^_</key>
+		<key>DS二分查找_搜索二维矩阵.xcscheme_^#shared#^_</key>
 		<dict>
 			<key>orderHint</key>
 			<integer>12</integer>
 		</dict>
-		<key>DS二叉树_另一棵树的子树.xcscheme_^#shared#^_</key>
+		<key>DS二叉排序树之查找.xcscheme_^#shared#^_</key>
 		<dict>
 			<key>orderHint</key>
-			<integer>20</integer>
+			<integer>22</integer>
 		</dict>
-		<key>DS二叉树_合并二叉树.xcscheme_^#shared#^_</key>
+		<key>DS二叉树--叶子数量.xcscheme_^#shared#^_</key>
 		<dict>
 			<key>orderHint</key>
-			<integer>1</integer>
+			<integer>30</integer>
 		</dict>
-		<key>DS二叉树_对称二叉树.xcscheme_^#shared#^_</key>
+		<key>DS二叉树--后序遍历非递归算法.xcscheme_^#shared#^_</key>
 		<dict>
 			<key>orderHint</key>
-			<integer>15</integer>
+			<integer>24</integer>
 		</dict>
-		<key>DS二叉树_输出所有目标路径.xcscheme_^#shared#^_</key>
+		<key>DS二叉树--左叶子数量.xcscheme_^#shared#^_</key>
 		<dict>
 			<key>orderHint</key>
-			<integer>0</integer>
+			<integer>29</integer>
 		</dict>
-		<key>DS二叉树——二叉树之数组存储.xcscheme_^#shared#^_</key>
+		<key>DS二叉树--赫夫曼树的构建与编码（含代码框架）.xcscheme_^#shared#^_</key>
 		<dict>
 			<key>orderHint</key>
-			<integer>9</integer>
+			<integer>41</integer>
 		</dict>
-		<key>DS二叉树——二叉树之父子结点.xcscheme_^#shared#^_</key>
-		<dict>
-			<key>orderHint</key>
-			<integer>7</integer>
-		</dict>
-		<key>DS二叉树—二叉树构建与遍历.xcscheme_^#shared#^_</key>
-		<dict>
-			<key>orderHint</key>
-			<integer>14</integer>
-		</dict>
-		<key>DS二叉树—二叉树结点的最大距离.xcscheme_^#shared#^_</key>
-		<dict>
-			<key>orderHint</key>
-			<integer>21</integer>
-		</dict>
-		<key>DS二叉树—二叉树镜面反转.xcscheme_^#shared#^_</key>
+		<key>DS二叉树--赫夫曼树解码（含代码框架）.xcscheme_^#shared#^_</key>
 		<dict>
 			<key>orderHint</key>
 			<integer>18</integer>
 		</dict>
+		<key>DS二叉树_伪层序遍历构建二叉树.xcscheme_^#shared#^_</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>34</integer>
+		</dict>
+		<key>DS二叉树_另一棵树的子树.xcscheme_^#shared#^_</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>36</integer>
+		</dict>
+		<key>DS二叉树_合并二叉树.xcscheme_^#shared#^_</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>39</integer>
+		</dict>
+		<key>DS二叉树_对称二叉树.xcscheme_^#shared#^_</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>6</integer>
+		</dict>
+		<key>DS二叉树_输出所有目标路径.xcscheme_^#shared#^_</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>10</integer>
+		</dict>
+		<key>DS二叉树——二叉树之数组存储.xcscheme_^#shared#^_</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>2</integer>
+		</dict>
+		<key>DS二叉树——二叉树之父子结点.xcscheme_^#shared#^_</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>9</integer>
+		</dict>
+		<key>DS二叉树—二叉树构建与遍历.xcscheme_^#shared#^_</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>38</integer>
+		</dict>
+		<key>DS二叉树—二叉树结点的最大距离.xcscheme_^#shared#^_</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>7</integer>
+		</dict>
+		<key>DS二叉树—二叉树镜面反转.xcscheme_^#shared#^_</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>4</integer>
+		</dict>
+		<key>DS图_传递信息.xcscheme_^#shared#^_</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>15</integer>
+		</dict>
+		<key>DS图—图的连通分量.xcscheme_^#shared#^_</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>14</integer>
+		</dict>
 		<key>DS图—图的邻接矩阵存储及度计算.xcscheme_^#shared#^_</key>
 		<dict>
 			<key>orderHint</key>
-			<integer>11</integer>
+			<integer>43</integer>
+		</dict>
+		<key>DS图—最小生成树.xcscheme_^#shared#^_</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>13</integer>
+		</dict>
+		<key>DS图应用--最短路径.xcscheme_^#shared#^_</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>25</integer>
+		</dict>
+		<key>DS图最小生成树.xcscheme_^#shared#^_</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>5</integer>
+		</dict>
+		<key>DS图遍历--广度优先搜索.xcscheme_^#shared#^_</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>16</integer>
+		</dict>
+		<key>DS图遍历--深度优先搜索.xcscheme_^#shared#^_</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>20</integer>
+		</dict>
+		<key>DS最小生成树.xcscheme_^#shared#^_</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>8</integer>
+		</dict>
+		<key>DS查找——折半查找求平方根.xcscheme_^#shared#^_</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>26</integer>
+		</dict>
+		<key>DS查找—二叉树平衡因子.xcscheme_^#shared#^_</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>27</integer>
 		</dict>
 		<key>DS栈—排队游戏.xcscheme_^#shared#^_</key>
 		<dict>
@@ -112,12 +177,12 @@
 		<key>DS树--二叉树高度.xcscheme_^#shared#^_</key>
 		<dict>
 			<key>orderHint</key>
-			<integer>13</integer>
+			<integer>23</integer>
 		</dict>
 		<key>DS树--带权路径和.xcscheme_^#shared#^_</key>
 		<dict>
 			<key>orderHint</key>
-			<integer>10</integer>
+			<integer>33</integer>
 		</dict>
 		<key>DS队列--组队列.xcscheme_^#shared#^_</key>
 		<dict>
@@ -129,10 +194,45 @@
 			<key>orderHint</key>
 			<integer>3</integer>
 		</dict>
+		<key>DS静态查找之折半查找.xcscheme_^#shared#^_</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>3</integer>
+		</dict>
+		<key>DS静态查找之顺序查找.xcscheme_^#shared#^_</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>21</integer>
+		</dict>
+		<key>DS静态查找之顺序索引查找.xcscheme_^#shared#^_</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>47</integer>
+		</dict>
+		<key>E : 图综合练习--拓扑排序.xcscheme_^#shared#^_</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>45</integer>
+		</dict>
+		<key>F : B DS图_课程表.xcscheme_^#shared#^_</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>46</integer>
+		</dict>
+		<key>F : 道路建设 (Ver. I).xcscheme_^#shared#^_</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>40</integer>
+		</dict>
 		<key>learn_data_structure.xcscheme_^#shared#^_</key>
 		<dict>
 			<key>orderHint</key>
-			<integer>17</integer>
+			<integer>44</integer>
+		</dict>
+		<key>test.xcscheme_^#shared#^_</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>1</integer>
 		</dict>
 		<key>串应用- 计算一个串的最长的真前后缀.xcscheme_^#shared#^_</key>
 		<dict>
@@ -142,22 +242,47 @@
 		<key>二叉树的中后序遍历构建及求叶子.xcscheme_^#shared#^_</key>
 		<dict>
 			<key>orderHint</key>
+			<integer>42</integer>
+		</dict>
+		<key>十字邻接表代码框架.xcscheme_^#shared#^_</key>
+		<dict>
+			<key>orderHint</key>
 			<integer>19</integer>
+		</dict>
+		<key>图的应用之——图的连通.xcscheme_^#shared#^_</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>37</integer>
+		</dict>
+		<key>图的顶点可达闭包.xcscheme_^#shared#^_</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>28</integer>
 		</dict>
 		<key>图综合练习--构建邻接表.xcscheme_^#shared#^_</key>
 		<dict>
 			<key>orderHint</key>
-			<integer>2</integer>
+			<integer>35</integer>
 		</dict>
 		<key>子串循环问题 (Ver. I).xcscheme_^#shared#^_</key>
 		<dict>
 			<key>orderHint</key>
 			<integer>5</integer>
 		</dict>
+		<key>货币套汇（图路径）.xcscheme_^#shared#^_</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>32</integer>
+		</dict>
 		<key>赫夫曼编码长度.xcscheme_^#shared#^_</key>
 		<dict>
 			<key>orderHint</key>
-			<integer>6</integer>
+			<integer>0</integer>
+		</dict>
+		<key>追星.xcscheme_^#shared#^_</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>31</integer>
 		</dict>
 	</dict>
 </dict>

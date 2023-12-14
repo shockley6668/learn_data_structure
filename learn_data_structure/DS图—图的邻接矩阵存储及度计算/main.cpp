@@ -17,7 +17,10 @@ public:
         for(int i=0;i<s;i++)
         {
             matrix[i]=new int[s];
-            memset(matrix[i],0,s*4);
+            for(int j=0;j<s;j++)
+            {
+                matrix[i][j]=0;
+            }
         }
         vertices=new string[size];
         
@@ -65,7 +68,11 @@ public:
         {
             for(int j=0;j<size;j++)
             {
-                cout<<matrix[i][j]<<" ";
+                cout<<matrix[i][j];
+                if(j!=size-1)
+                {
+                    cout<<" ";
+                }
             }
             cout<<endl;
        
@@ -79,7 +86,8 @@ public:
             for(int i=0;i<size;i++)
             {
                 allDegree[i]=new int [2];
-                memset(allDegree[i], 0, 8);
+                allDegree[i][0]=0;
+                allDegree[i][1]=0;
             }
             
             for(int i=0;i<size;i++)
@@ -89,26 +97,57 @@ public:
                     if(matrix[i][j]==1)
                         allDegree[i][0]++;
                     if(matrix[j][i]==1)
-                        allDegree[j][1]++;
+                    {
+                        ++allDegree[i][1];
+                    }
+                    
                 }
+                
             }
             for(int i=0;i<size;i++){
                 cout<<vertices[i]<<": ";
-                cout<<allDegree[i][0]<<" "<<allDegree[i][1]<<" "<<allDegree[i][1]+allDegree[i][0]<<endl;
+                if((allDegree[i][1]+allDegree[i][0])!=0)
+                    cout<<allDegree[i][0]<<" "<<allDegree[i][1]<<" "<<(allDegree[i][1]+allDegree[i][0]);
+                cout<<endl;
             }
             
+        }
+        if(type=='U')
+        {
+            int* allDegree=new int[size];
+            for(int i=0;i<size;i++)
+            {
+                for(int j=0;j<size;j++)
+                {
+                    if(matrix[i][j]==1)
+                        allDegree[i]++;
+                }
+                
+            }
+            for(int i=0;i<size;i++){
+                cout<<vertices[i]<<": ";
+                if(allDegree[i]!=0)
+                    cout<<allDegree[i];
+                cout<<endl;
+            }
         }
     }
 };
 int main()
 {
-    char type;
-    int size;
-    cin>>type>>size;
-    Map map(type,size);
-    map.setVertices();
-    map.setMap();
-    map.PrintMap();
-    map.printAllDegree();
+    int t;
+    cin>>t;
+    while(t--)
+    {
+        char type;
+        int size;
+        cin>>type>>size;
+        Map map(type,size);
+        map.setVertices();
+        map.setMap();
+        map.PrintMap();
+        map.printAllDegree();
+    }
+    
 
 }
